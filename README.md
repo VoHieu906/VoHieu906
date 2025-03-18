@@ -7,15 +7,11 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm VoHieu! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I’m VoHieu, a passionate Full Stack Developer! 
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer. </p>
-
-
-- 💻 Visit my [Portfolio](https://vohieu-portfolio.vercel.app/) for more details about me.
+💻 Visit my [Portfolio](https://vohieu-portfolio.vercel.app/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -34,13 +30,9 @@
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br />
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-</ul>
+<br />
+<br />
+<h3 align="left">My goals</h3> <ul align="left"> <li>Sharpening my JavaScript skills for both frontend and backend challenges.</li> <li>Digging into NestJS to build scalable, server-side solutions.</li> <li>Enhancing my full-stack toolkit with NextJS and AWS deployments.</li> </ul>
   
 
 <br />
@@ -60,14 +52,14 @@
     </picture>
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/daytonaio/daytona">
     <img
       src="https://api.vaunt.dev/v1/github/entities/VoHieu906/achievements?format=svg&limit=6"
       width="400"
     />
   </a>
-</p>
+</p> -->
 <br />
 
 <!--Github stats Table--> 
